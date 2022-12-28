@@ -1,0 +1,267 @@
+
+body {
+    background: url("../img/Background.png"); 
+    background-repeat: no-repeat;
+    position: absolute;
+    align-items: left ;
+    
+    
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    height: 200px;
+    width: 100%;
+    margin-bottom: 10px;
+    height: 100vh;
+    width: 100%;
+    background-size: 100% 100%;
+    margin: 0px 10px;
+    margin-left: 130px;
+    
+    
+}
+
+      
+@media screen and(max-width: 376px )
+      {body{display: flex;
+        max-height: 667px;
+            align-items: center;
+            margin-left: 500px}
+
+         
+}
+.Osnova {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    height: 200px;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: -600px;
+    margin-left: 150px;
+    height: 100vh;
+    width: 100%;
+    background-size: 100% 100%;
+    
+    
+}
+   
+    
+.navbar {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.Up_block {
+    min-height: 500px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+li {
+    
+    padding: 15px 20px;
+}
+
+.logo {
+    height: 46px;
+    width: 153px;
+    top: 30px;
+    left: 312px;
+}
+
+.vk {
+    height: 36px;
+    width: 36px;
+    margin-left: 20px;
+    
+   
+
+}
+
+.YT {
+    width: 36px;
+    height: 36px;
+    margin-left: 40px;
+    
+}
+
+hr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    
+    background-color: white;
+    margin-left: 10px;
+}
+
+
+
+.block_text {
+    
+    position: absolute;
+    margin-top: 106px;
+    margin-left: 158px;
+    width: 636px;
+    height: 201px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    
+        
+}
+.block2_text{
+    display: flex;
+    display: inline-block;
+    position: absolute;
+    margin-top: 373px;
+    margin-left: 158px;
+    width: 220px;
+    height: 65px;
+    
+
+    font-family: 'Gilroy';
+    overflow-wrap: break-word;
+
+
+    font-size: 16px;
+    
+
+    
+
+}
+
+.big_block {
+    display: flex;
+    min-height: 500px;
+    width: 100%;
+    margin-top: 675px;
+    
+}
+
+.small_block {
+    background-color: #8D86C9;
+    width: 315px;
+    height: 151px;
+    margin-left: 12px;
+
+}
+
+.big2_block {
+    display: flex;
+    width: 376px;
+    height: 450px;
+    min-height: 500px;
+    width: 100%;
+    margin-top: -220px;
+    
+   
+}
+
+.niz1_block {
+    width: 437px;
+    height: 350px;
+    margin-left: 12px;
+
+}
+
+.niz1_block h2 {
+    position: absolute;
+    width: 250px;
+    text-align: center;
+    margin-top: 340px;
+    margin-left: 100px;
+    
+}
+
+.dop_block1 {
+    
+    width: 636px;
+    height: 654px;
+    margin-left: 12px;
+    margin-top: 100px;
+    
+
+}
+.mini_dop_block1{
+   
+    position: absolute;
+    margin-left: 50px;
+}
+
+.mini_dop_block2{
+    background-color: rgb(238, 223, 201);
+    position: absolute;
+   max-width: 500px;
+   max-height: 700px;
+   margin-left: 600px;
+    color: black;
+    text-align: left;
+    align-items: center;
+    margin-top: 0px;
+    
+}
+
+
+.tipe_5{
+    align-items: left;
+    max-height: 500px;
+    max-width: 500px+;
+    width: 100%;
+    color: black;
+    flex-direction: column;
+    
+}
+
+.strelki{
+    display: flex;
+    
+}
+.strelki1 {
+    
+    background-color: #8D86C9;
+    width: 31px;
+    height: 31px;
+}
+.strelki2 {
+    margin-left: 12px;
+    background-color: #8D86C9;
+    width: 31px;
+    height: 31px;
+}
+.tipe_4{
+    max-width: 550px;
+    display: flex;
+    align-items: left;
+    
+    
+    color: black;
+    
+    
+   
+}
+.tipe_4 h1{
+    margin-left: 5px;
+    align-items: left;
+    margin-right: 12px;
+    
+   
+}
+
+
+                 
+                 
+                

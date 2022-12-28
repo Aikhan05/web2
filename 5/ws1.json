@@ -1,0 +1,33 @@
+{
+    "mugivara_one": {
+        "name": "Luffy",
+        "age": 19,
+        "bounty": 3000000000
+    },
+    "mugivara_two": {
+        "name": "Zoro",
+        "age": 21,
+        "bounty": 1100000000
+    },
+    "mugivara_three": {
+        "name": "Sandji",
+        "age": 21,
+        "bounty":10010000000
+    },
+    "mugivara_four": {
+        "name": "Nami",
+        "age": 20,
+        "bounty":68000000
+    },
+    "mugivara_five": {
+    "name": "Chopper",
+    "age": 16,
+    "bounty": 10000
+    },
+    "mugivara_six": {
+        "name": "Robin",
+        "age": 31,
+        "bounty": 8800000
+    }
+
+}

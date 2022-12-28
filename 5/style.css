@@ -1,0 +1,18 @@
+body{
+    margin-left: 50px;
+    background-image:url("almau.jpg");
+}
+.container{
+    margin: 30px;
+    padding: 20px;
+    border: 2px solid;
+    width: fit-content;
+    color: aqua;
+    background-color: blue;
+}
+button{
+    color: rgb(227, 11, 11);
+}
+@media screen and (max-width:"720px"){
+    
+}
