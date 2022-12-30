@@ -1,0 +1,35 @@
+{
+    "1_team": {
+        "title": "Макет Сайта от Фигмы",
+        "desc": "Моя первая верстка",
+        "img": "img2/1.png",
+        "share": "https://www.youtube.com/"
+            
+    },
+    "2_team": {
+        "title": "Калькулятор с кнопками",
+        "desc": "Создавать кнопки и их функции",
+        "img": "img2/2.png",
+        "share": "https://www.chess.com/play"
+    },
+    "3_team": {
+        "title": "Регистрация",
+        "desc": "Создавать условия",
+        "img": "img2/3.png"
+    },
+    "4_team": {
+        "title": "To DO list",
+        "desc": "Делать to do лист",
+        "img": "img2/4.png"
+    },
+    "5_team": {
+        "title": "РК2",
+        "desc": "Работа с Json и Локальными файлами",
+        "img": "img2/5.png"
+    },
+    "6_team": {
+        "title": "Кино блоки",
+        "desc": "Работать с блоками",
+        "img": "img2/6.png"
+    }
+}
